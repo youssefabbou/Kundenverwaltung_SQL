@@ -34,7 +34,7 @@ Die Datenbank enthält die folgenden Tabellen:
 
 ## Kontakt
 
-Bei Fragen oder Feedback erreichen Sie mich unter: [youssefzweit@gmail.com oder auf LinkedIn unter: ].
+Bei Fragen oder Feedback erreichen Sie mich unter: [youssefzweit@gmail.com oder auf LinkedIn unter: www.linkedin.com/youssef-abbou-a75b3121a].
 
 ## Lizenz
 
