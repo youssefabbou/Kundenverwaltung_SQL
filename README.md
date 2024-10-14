@@ -7,6 +7,11 @@ Dieses Repository enthält ein SQL-Projekt zur Verwaltung von Kunden- und Bestel
 - **create_database.sql**: Diese Datei enthält die SQL-Befehle zum Erstellen der Datenbank und der erforderlichen Tabellen für die Kundenverwaltung.
 - **queries.sql**: Diese Datei enthält eine Sammlung von SQL-Abfragen, die zur Analyse der in der Datenbank gespeicherten Daten verwendet werden.
 
+## Installation
+
+1. Laden Sie [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) herunter und installieren Sie es.
+2. Öffnen Sie Oracle SQL Developer und verbinden Sie sich mit Ihrer Oracle-Datenbank.
+
 ## Datenbankstruktur
 
 Die Datenbank enthält die folgenden Tabellen:
@@ -26,9 +31,13 @@ Die Datenbank enthält die folgenden Tabellen:
 - Berechnen Sie die Gesamtmenge der bestellten Produkte.
 - Ermitteln Sie die Produkte mit dem höchsten Preis.
 
-## Voraussetzungen
+## Danksagung
 
-- Oracle SQL Developer oder eine ähnliche SQL-Umgebung, um die SQL-Dateien auszuführen.
+Ein besonderer Dank an [Ihre Universität] für die Bereitstellung der ursprünglichen Datenbank und das Lernmaterial.
+
+## Kontakt
+
+Bei Fragen oder Feedback erreichen Sie mich unter: [Ihre E-Mail-Adresse oder LinkedIn-Profil].
 
 ## Lizenz
 
