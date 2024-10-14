@@ -31,13 +31,10 @@ Die Datenbank enthält die folgenden Tabellen:
 - Berechnen Sie die Gesamtmenge der bestellten Produkte.
 - Ermitteln Sie die Produkte mit dem höchsten Preis.
 
-## Danksagung
-
-Ein besonderer Dank an [Ihre Universität] für die Bereitstellung der ursprünglichen Datenbank und das Lernmaterial.
 
 ## Kontakt
 
-Bei Fragen oder Feedback erreichen Sie mich unter: [Ihre E-Mail-Adresse oder LinkedIn-Profil].
+Bei Fragen oder Feedback erreichen Sie mich unter: [youssefzweit@gmail.com oder auf LinkedIn unter: ].
 
 ## Lizenz
 
